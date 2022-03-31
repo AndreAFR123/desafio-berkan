@@ -1,0 +1,7 @@
+br\com\desafio_berkan\controller\InssIrpfController.class
+br\com\desafio_berkan\model\Irpf.class
+br\com\desafio_berkan\model\Inss.class
+br\com\desafio_berkan\dao\InssDAO.class
+br\com\desafio_berkan\data\ConexaoJDBC.class
+br\com\desafio_berkan\dao\IrpfDAO.class
+br\com\desafio_berkan\MyApp.class
